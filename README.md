@@ -16,10 +16,10 @@
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/35399e57-018e-4d2b-a547-98355efb8d61" width="220" alt="Welcome Screen">
-  <img src="https://github.com/user-attachments/assets/0b5de713-8f68-4945-a997-09d9efb42d8e" width="220" alt="Home/All Places">
-  <img src="https://github.com/user-attachments/assets/a16d53a0-bc53-4fc7-8710-5a2648c4d72c" width="220" alt="Cafe Category">
-  <img src="https://github.com/user-attachments/assets/3ab7f47d-12a6-4275-a53b-e8c157a13c4b" width="220" alt="Place Details">
+  <img src="https://github.com/user-attachments/assets/35399e57-018e-4d2b-a547-98355efb8d61" width="200" alt="Welcome Screen">
+  <img src="https://github.com/user-attachments/assets/0b5de713-8f68-4945-a997-09d9efb42d8e" width="200" alt="Home/All Places">
+  <img src="https://github.com/user-attachments/assets/a16d53a0-bc53-4fc7-8710-5a2648c4d72c" width="200" alt="Cafe Category">
+  <img src="https://github.com/user-attachments/assets/3ab7f47d-12a6-4275-a53b-e8c157a13c4b" width="200" alt="Place Details">
 </p>
 
 ## 🛢️Database Supabase
