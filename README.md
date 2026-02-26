@@ -22,3 +22,8 @@
   <img src="https://github.com/user-attachments/assets/3ab7f47d-12a6-4275-a53b-e8c157a13c4b" width="220" alt="Place Details">
 </p>
 
+## 🛢️Database Supabase
+<p align="center">
+  <img alignment="center" src="https://github.com/user-attachments/assets/62a9acae-bd68-4597-bcd8-b02e6e49606b" width="220">
+</p>
+
