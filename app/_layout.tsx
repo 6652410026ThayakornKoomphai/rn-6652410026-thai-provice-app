@@ -39,13 +39,14 @@ export default function RootLayout() {
       <Stack.Screen
         name="detail"
         options={{
+          title: "รายละเอียดต่างๆ",
           headerBackButtonDisplayMode: "minimal",
           headerTitleAlign: "center",
           headerTitleStyle: {
             fontFamily: "Kanit_400Regular",
             color: "#fff",
           },
-          headerStyle: { backgroundColor: "#714503" },
+          headerStyle: { backgroundColor: "#cd662b" },
           headerTintColor: "#fff",
         }}
       />
