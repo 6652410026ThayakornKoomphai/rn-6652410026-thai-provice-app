@@ -1,50 +1,24 @@
-# Welcome to your Expo app 👋
+# 🐉 Nakhon Sawan Travel Guide App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+แอปพลิเคชันแนะนำสถานที่ท่องเที่ยว คาเฟ่ ร้านอาหาร และเทศกาลที่น่าสนใจในจังหวัดนครสวรรค์ (เมืองสี่แคว แห่มังกร พักผ่อนบึงบอระเพ็ด ปลารสเด็ดปากน้ำโพ) ออกแบบมาเพื่อให้ผู้ใช้งานค้นหาสถานที่พักผ่อนและดูรายละเอียดต่างๆ ได้อย่างง่ายดาย
 
-## Get started
+<br>
 
-1. Install dependencies
+## ✨ Features (คุณสมบัติหลัก)
 
-   ```bash
-   npm install
-   ```
+* **Splash / Welcome Screen:** หน้าจอเริ่มต้นพร้อมภาพประกอบเอกลักษณ์ประจำจังหวัดนครสวรรค์
+* **Category Filter:** สามารถกรองหมวดหมู่สถานที่ได้ง่ายๆ ด้วย Filter Chips (ทั้งหมด, Cafe, Restaurant, Tourist Attraction, Festival)
+* **Place Listings:** แสดงรายการสถานที่พร้อมรูปภาพปก ชื่อสถานที่ และตำแหน่งที่ตั้ง
+* **Detail Page:** หน้ารายละเอียดสถานที่ที่แสดงข้อมูลครบถ้วน เช่น เบอร์โทรศัพท์, คำอธิบายสั้นๆ และภาพบรรยากาศ
+* **Map Integration:** มีปุ่ม "ดูเส้นทางบนแผนที่" เพื่อลิงก์ไปยังแอปพลิเคชันแผนที่สำหรับการเดินทาง
+<br>
 
-2. Start the app
+## 📸 App Screenshots
 
-   ```bash
-   npx expo start
-   ```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/35399e57-018e-4d2b-a547-98355efb8d61" width="220" alt="Welcome Screen">
+  <img src="https://github.com/user-attachments/assets/63c31757-5b4a-413f-87a1-7f9189d3703b" width="220" alt="Home/All Places">
+  <img src="https://github.com/user-attachments/assets/a16d53a0-bc53-4fc7-8710-5a2648c4d72c" width="220" alt="Cafe Category">
+  <img src="https://github.com/user-attachments/assets/3ab7f47d-12a6-4275-a53b-e8c157a13c4b" width="220" alt="Place Details">
+</p>
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
